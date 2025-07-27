@@ -6,6 +6,7 @@ This portfolio will grow as I improve my skills and take on new projects.
 ## 🔧 Current Focus
 - HTML, CSS, JavaScript
 - React basics
+- TypeScript
 - Web3 fundamentals (Solidity, Ethereum, dApps)
 
 Stay tuned — more coming soon!
